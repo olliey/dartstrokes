@@ -1,0 +1,7 @@
+name: strokes
+dependencies:
+  unittest:
+    sdk: unittest
+  
+
+  
